@@ -14,7 +14,9 @@
     "pid": 5576
   },
   "agent-elanuk-5770": {
-    "files": [],
+    "files": [
+      "/Users/elanukarakus/repo-test/src/middleware.ts"
+    ],
     "owner": "elanuk",
     "started": 1782020984,
     "expires": 1782021884,
