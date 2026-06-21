@@ -1,6 +1,8 @@
 {
   "agent-elanuk-3031": {
-    "files": [],
+    "files": [
+      "/Users/elanukarakus/repo-test/src/auth.ts"
+    ],
     "owner": "elanuk",
     "started": 1782020088,
     "expires": 1782020988,
