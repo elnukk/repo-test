@@ -7,7 +7,9 @@
     "pid": 3686
   },
   "agent-elanuk-4764": {
-    "files": [],
+    "files": [
+      "/Users/elanukarakus/repo-test/src/auth.ts"
+    ],
     "owner": "elanuk",
     "started": 1782020879,
     "expires": 1782021779,
