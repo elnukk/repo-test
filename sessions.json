@@ -5,16 +5,5 @@
     "started": 1782275235,
     "expires": 1782276135,
     "pid": 23957
-  },
-  "agent-elanuk-24150": {
-    "files": [
-      "/Users/elanukarakus/repo-test/src/auth.ts",
-      "/Users/elanukarakus/.claude/projects/-Users-elanukarakus-repo-test/memory/feedback_ownership_protocol.md",
-      "/Users/elanukarakus/.claude/projects/-Users-elanukarakus-repo-test/memory/MEMORY.md"
-    ],
-    "owner": "elanuk",
-    "started": 1782275237,
-    "expires": 1782276137,
-    "pid": 24164
   }
 }
