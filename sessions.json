@@ -12,5 +12,14 @@
     "started": 1782276022,
     "expires": 1782276922,
     "pid": 27529
+  },
+  "claude-sonnet-4-6-main": {
+    "files": [
+      "src/auth.ts"
+    ],
+    "owner": "elanuk",
+    "started": 1782276062,
+    "expires": 1782276962,
+    "pid": 27299
   }
 }
