@@ -28,7 +28,9 @@
     "pid": 18477
   },
   "agent-elanuk-20943": {
-    "files": [],
+    "files": [
+      "/Users/elanukarakus/repo-test/src/auth.ts"
+    ],
     "owner": "elanuk",
     "started": 1782274220,
     "expires": 1782275120,
