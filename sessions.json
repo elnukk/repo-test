@@ -16,14 +16,5 @@
     "started": 1782276314,
     "expires": 1782277214,
     "pid": 29885
-  },
-  "main-claude-session": {
-    "files": [
-      "src/auth.ts"
-    ],
-    "owner": "elanuk",
-    "started": 1782276335,
-    "expires": 1782277235,
-    "pid": 29846
   }
 }
