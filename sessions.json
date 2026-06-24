@@ -14,14 +14,5 @@
     "started": 1782275237,
     "expires": 1782276137,
     "pid": 24164
-  },
-  "agent-elanuk-24818": {
-    "files": [
-      "src/auth.ts"
-    ],
-    "owner": "elanuk",
-    "started": 1782275309,
-    "expires": 1782276209,
-    "pid": 24140
   }
 }
