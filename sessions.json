@@ -1,25 +1,4 @@
 {
-  "agent-elanuk-16924": {
-    "files": [],
-    "owner": "elanuk",
-    "started": 1782273528,
-    "expires": 1782274428,
-    "pid": 16938
-  },
-  "agent-elanuk-17364": {
-    "files": [],
-    "owner": "elanuk",
-    "started": 1782273531,
-    "expires": 1782274431,
-    "pid": 17379
-  },
-  "agent-elanuk-17811": {
-    "files": [],
-    "owner": "elanuk",
-    "started": 1782273568,
-    "expires": 1782274468,
-    "pid": 17825
-  },
   "agent-elanuk-18452": {
     "files": [],
     "owner": "elanuk",
