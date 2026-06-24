@@ -1,6 +1,8 @@
 {
   "agent-elanuk-22753": {
-    "files": [],
+    "files": [
+      "/Users/elanukarakus/repo-test/src/middleware.ts"
+    ],
     "owner": "elanuk",
     "started": 1782274906,
     "expires": 1782275806,
