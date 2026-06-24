@@ -5,14 +5,5 @@
     "started": 1782275235,
     "expires": 1782276135,
     "pid": 23957
-  },
-  "agent-elanuk-26395": {
-    "files": [
-      "/Users/elanukarakus/repo-test/src/auth.ts"
-    ],
-    "owner": "elanuk",
-    "started": 1782275900,
-    "expires": 1782276800,
-    "pid": 26409
   }
 }
